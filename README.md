@@ -1,3 +1,6 @@
+**NOTE:** *This is a fork of https://bitbucket.org/liamstask/goose with sqlite3 support removed in order to work around build issue [https://bitbucket.org/liamstask/goose/issue/47](https://bitbucket.org/liamstask/goose/issue/47).*
+
+
 # goose
 
 goose is a database migration tool.
